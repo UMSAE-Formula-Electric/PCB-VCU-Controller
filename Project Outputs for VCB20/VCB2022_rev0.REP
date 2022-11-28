@@ -2,52 +2,32 @@
 FileName = VCB2022_rev0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : VCB2022_rev0.GTP
+Generating : Board Outline
+      File : VCB2022_rev0_Board_Outline.gbr
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : VCB2022_rev0_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D15
+    D18
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : VCB2022_rev0.GBP
+      File : VCB2022_rev0_Paste_Bot.gbr
 
     Adding Layer      : Bottom Paste
 
@@ -57,52 +37,18 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D32
-    D35
+    D44
     D45
-    D108
-    D109
+    D51
     D110
     D111
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : VCB2022_rev0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D16
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : VCB2022_rev0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
+    D112
+    D113
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : VCB2022_rev0.GBS
+      File : VCB2022_rev0_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -112,8 +58,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D62
-    D65
+    D74
     D75
     D81
     D82
@@ -126,112 +71,16 @@ Used DCodes :
     D89
     D90
     D91
-    D113
+    D92
     D114
     D115
     D116
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : VCB2022_rev0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D32
-    D35
-    D45
-    D83
-    D92
-    D93
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : VCB2022_rev0.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D83
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
+    D117
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : VCB2022_rev0.GTS
+      File : VCB2022_rev0_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -241,7 +90,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D51
     D52
     D53
     D54
@@ -282,16 +130,170 @@ Used DCodes :
     D89
     D90
     D91
+    D92
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : VCB2022_rev0.GM2
+Generating : Top Paste
+      File : VCB2022_rev0_Paste_Top.gbr
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : VCB2022_rev0_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : VCB2022_rev0_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
+    D44
+    D45
+    D51
+    D85
+    D93
+    D94
+    D95
+    D96
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : VCB2022_rev0_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D85
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
 *************************************************************
 

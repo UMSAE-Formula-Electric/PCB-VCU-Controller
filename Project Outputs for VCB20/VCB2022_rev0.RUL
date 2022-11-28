@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Jack\Documents\UMSAE\Git_PCB\PCB-VCU-Controller\VCB2022_rev0.PcbDoc
+DRC Rules Export File for PCB: C:\Users\rajan\Desktop\PCB-VCU-Controller\VCB2022_rev0.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Via|Scope=Board|Minimum=5.00
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Pad|Scope=Board|Minimum=7.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
