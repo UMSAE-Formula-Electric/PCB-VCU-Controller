@@ -337,151 +337,120 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URWLVRBR
 
+[Document18]
+DocumentPath=VCB20.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VCB20\Design Rule Check - VCB2022_rev0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for VCB20\NC Drill\VCB2022_rev0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for VCB20\NC Drill\VCB2022_rev0.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Board_Outline.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Board_Outline.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for VCB20\Gerber\VCB2022_rev0_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for VCB20\VCB2022_rev0_Soldermask_Top.gbr
 DItemRevisionGUID=
 
