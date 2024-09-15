@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GPALNJNM
 
 [Document4]
-DocumentPath=4-PPS.SchDoc
+DocumentPath=4-APPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
