@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=SL_Tap Pin=R40-2
+Removed Pin From Net: NetName=SL_Tap Pin=R42-2
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found RESC0603(1608)_N
+Change Footprint: Footprint Not Found VISH-SOD-123-2_V
+Added Component: Designator=R72(RESC0603(1608)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R73(1608[0603])
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RT_1-to-0.05_RoHS_L_6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RT_1-to-0.05_RoHS_L_6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD073K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.55, 10=0.464, 25=0.3376, 50=0.2446, 100=0.1814, 250=0.1392, 500=0.10966, 1000=0.07592 (CAD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "3.9k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10688"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "YAG1656CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±25ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=SL_Tap Pin=R72-2
+Added Pin To Net: NetName=SL_Tap Pin=R73-1
+Added Pin To Net: NetName=SL_Control Pin=R61-2
+Added Pin To Net: NetName=SL_Control Pin=R62-2
+Added Pin To Net: NetName=SL_Control Pin=U1-43
+Added Net: Name=SL_Control
+Add Net: Net with name "SL_Tap" already exists
+Added Member To Class: ClassName=9-Other_Inputs Member=Component R72 10K
+Added Member To Class: ClassName=9-Other_Inputs Member=Component R73 Res1
